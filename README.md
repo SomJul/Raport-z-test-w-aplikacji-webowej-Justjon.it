@@ -1,1 +1,1 @@
-# Raport z test w aplikacji webowej Justjon.it
+# Raporty, plany testów oraz przypadki testowe 
